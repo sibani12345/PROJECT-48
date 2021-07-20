@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\angry stage7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CLASS"
+	}
+}
